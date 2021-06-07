@@ -1,0 +1,2 @@
+# newapp
+first django project
